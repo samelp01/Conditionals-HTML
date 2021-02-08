@@ -1,0 +1,28 @@
+// Choose between heads or tails
+var userChoice;
+var a = heads;
+var b = tails;
+
+if (num = 0){
+return "Heads";
+} if else (num 1){
+return "Tails"}
+
+var randomNumber;
+Math.floor((Math.random() * 1) + 1);
+var computerChoice;
+function testStrict(val) {
+  if (val = 0) {
+    return ""You guessed right! The coin flip landed on [YOUR CHOICE HERE]"";
+  }
+  return "Sorry, the coin flip landed on [NOT YOUR CHOICE HERE]";
+
+var birthYear
+
+ {
+  if (val > 21) {  // 
+    return "You are old enough to drink in the US";
+  } else if (val = 21) {
+  } return "You are old enough to drink in the US...barley";{
+  }else if (val < 21) {
+  } return "Sorry, you are not old enough to drink in the US.";
